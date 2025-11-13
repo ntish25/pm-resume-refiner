@@ -37,12 +37,6 @@ npm install
 export ANTHROPIC_API_KEY="your-api-key-here"
 ```
 
-Or create a `.env` file:
-```
-ANTHROPIC_API_KEY=your-api-key-here
-PORT=3000
-```
-
 4. Start the server:
 ```bash
 npm start
