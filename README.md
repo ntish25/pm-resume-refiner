@@ -1,1 +1,1 @@
-# pm-resume-reviewer
+# pm-resume-refiner
