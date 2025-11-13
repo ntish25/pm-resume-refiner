@@ -268,6 +268,10 @@ Error responses include a message:
 }
 ```
 
+## Known Issues/Bugs
+
+The current image links are broken. Consider uploading the source images into the /public folder itself and referencing it inside the index.html file.
+
 ## License
 
 Built for Leland by Nathan Tishgarten
